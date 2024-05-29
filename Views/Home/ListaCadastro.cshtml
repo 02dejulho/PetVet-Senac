@@ -1,0 +1,36 @@
+@model List<DadosAgendamento>
+
+    <h3>Pré-Agendamento realizado com sucesso!</h3>
+    <br>
+    <table width="467" border="1">
+
+        <tr>
+
+            <th align="center">Nome:</th>
+            <th align="center">Telefone:</th>
+            <th align="center">Data:</th>
+            <th align="center">Animal:</th>
+            <th align="center">Necessidade:</th>           
+
+
+        </tr>
+
+@foreach(DadosAgendamento da in Model)
+{
+
+        <tr>
+
+            <td>@da.nome</td>
+            <td>@da.telefone</td>
+            <td>@da.data</td>
+            <td>@da.animal</td>
+            <td>@da.necessidade</td>
+            
+            
+        </tr>
+
+}
+
+</table>
+
+<br>

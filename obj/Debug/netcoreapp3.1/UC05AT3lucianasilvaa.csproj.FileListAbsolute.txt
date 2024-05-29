@@ -1,0 +1,80 @@
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.exe
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.deps.json
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.runtimeconfig.json
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.runtimeconfig.dev.json
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.dll
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.pdb
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.Views.dll
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.Views.pdb
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.csprojAssemblyReference.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.AssemblyInfoInputs.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.AssemblyInfo.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.csproj.CoreCompileInputs.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorAssemblyInfo.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorAssemblyInfo.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.TagHelpers.input.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.TagHelpers.output.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorCoreGenerate.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorTargetAssemblyInfo.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorTargetAssemblyInfo.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.Views.pdb
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\staticwebassets\UC05AT3lucianasilvaa.StaticWebAssets.Manifest.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\staticwebassets\UC05AT3lucianasilvaa.StaticWebAssets.xml
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.dll
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.pdb
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.genruntimeconfig.cache
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.csproj.CopyComplete
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\DadosAgendamento.cshtml.g.cs
+C:\Users\acjhe\OneDrive\Documentos\SENAC\UC5\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListaCadastro.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.csproj.AssemblyReference.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.AssemblyInfoInputs.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.AssemblyInfo.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorAssemblyInfo.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorAssemblyInfo.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.dll
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.pdb
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.StaticWebAssets.xml
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.exe
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.deps.json
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.runtimeconfig.json
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.runtimeconfig.dev.json
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.dll
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.pdb
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.Views.dll
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\bin\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.Views.pdb
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\staticwebassets\UC05AT3lucianasilvaa.StaticWebAssets.Manifest.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.TagHelpers.input.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.TagHelpers.output.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorCoreGenerate.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\DadosAgendamento.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListaCadastro.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorTargetAssemblyInfo.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.RazorTargetAssemblyInfo.cs
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.Views.pdb
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.genruntimeconfig.cache
+C:\Users\lucia\Desktop\SENAC-TII\MODULO A\UC05 - Codificar Aplicações Web\UC05ATv3lucianasilvaa\UC05AT3lucianasilvaa\obj\Debug\netcoreapp3.1\UC05AT3lucianasilvaa.csproj.CopyComplete
