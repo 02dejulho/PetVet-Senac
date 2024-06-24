@@ -9,3 +9,9 @@ Primeiro projeto MVC realizado no curso de Informática para Internet do Senac. 
 ## 🚀Tecnologias Utilizadas: 
 .NET 3.1 + elementos simples de HTML e CSS
 
+<br>
+<p align="center">
+<img src="https://github.com/02dejulho/biblioteca-senac/assets/142263885/250c5e1f-4bc8-4d7d-9e6f-40a4b8af9382" width="70%"/>
+<img src="https://github.com/02dejulho/biblioteca-senac/assets/142263885/5fe4f137-4cbf-4909-8c96-7af412e45dd6" width="70%"/>
+</p>  
+
